@@ -17,11 +17,13 @@
           "type":"git",
           "url":"http://github.com/minX65536/googl-php",
           "reference":"master"
-        },
-        "autoload":{
-          "files": ["Googl.class.php"]
         }
       }
     }
-  ]
+  ],
+  "autoload":{
+    "psr-4": {
+      "minx65536\\googl\\": ""
+    }
+  }
 }
