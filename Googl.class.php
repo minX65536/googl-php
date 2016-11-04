@@ -19,6 +19,8 @@
 * along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
+namespace minx65536\googl;
+
 class Googl
 {
 	public $extended;
