@@ -19,10 +19,7 @@
           "reference":"master"
         },
         "autoload":{
-          "psr-4": {
-            "minx65536\\googl\\": ""
-          },
-          "files": ["googl-php/Googl.class.php"]
+          "files": ["Googl.class.php"]
         }
       }
     }
