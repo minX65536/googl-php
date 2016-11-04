@@ -12,7 +12,7 @@
       "type":"package",
       "package":{
         "name":"minX65536/googl-php",
-        "version":"1.0.0",
+        "version":"1.0.1",
         "source":{
           "type":"git",
           "url":"http://github.com/minX65536/googl-php",
