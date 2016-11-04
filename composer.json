@@ -1,8 +1,7 @@
 {
   "name": "minx65536/googl-php",
   "require":{
-    "php":">=5.3.0",
-    "minX65536/googl-php":"1.0.0"
+    "php":">=5.3.0"
   },
   "repositories":[
     {
